@@ -4,6 +4,7 @@ This GitHub repository showcases my work on semantic segmentation using a Unet m
 Key Features:<br>
 
 Dataset: The Cityscapes dataset, a widely used benchmark for urban scene understanding, comprising high-quality images with pixel-level annotations for various classes.<br>
+You can access the dataset from https://www.kaggle.com/datasets/dansbecker/cityscapes-image-pairs <br>
 
 Model Architecture: An encoder-decoder Unet model designed for multiclass semantic segmentation. The encoder captures high-level features, while the decoder generates segmented output maps.<br>
 
